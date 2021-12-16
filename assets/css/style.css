@@ -56,6 +56,7 @@ nav {
   }
 body {
     color: var(--dark);
+    background-color: var(--grey);
     font-size: 14px;
     font-family: 'Poppins', sans-serif;
     width: 100%;
@@ -66,11 +67,29 @@ body {
     display:flex;
     justify-content: space-between;
 }
+/* main container */
 .container {
-    display:flex;
-    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    margin: 15px auto;
+    justify-content: flex-start;
 }
-
+/*Main headings */
+.heading {
+    flex: 1 1 0;
+    text-align: right;
+    padding: 6px 20px;
+}
+.heading a {
+    color:var(--dark);
+    text-decoration: none;
+}
+/*portfolio section */
+.portfolio {
+    flex: 3 1 0;
+    padding: 6px 20px;
+    border-left: 4px solid var(--blue);
+}
 
 /* tablets and pads */
 @media all and (max-width:996px) {
