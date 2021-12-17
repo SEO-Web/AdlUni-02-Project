@@ -103,10 +103,21 @@ body {
     align-items: flex-start;
     text-decoration: underline;
   }
+.contacts i {
+    text-decoration:none;
+    padding-right:6px;
+}
+
 
 /* tablets and pads */
 @media all and (max-width:996px) {
-    
+.contacts {
+    flex-direction: column;
+}
+contacts a {
+    justify-content: flex-start;
+    line-height:1.4;
+}
   }
 
 /*small Screens */
