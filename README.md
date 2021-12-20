@@ -34,3 +34,12 @@ THEN I am presented with a responsive layout that adapts to my viewport
 <hr>
 <h3>Screenshot of Application</h3>
 
+<hr>
+<h3>Assitance Required</h3>
+What does this mean and how do I overcome it?
+error: failed to push some refs to 'github.com:SEO-Web/AdlUni-02-Project.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
