@@ -29,11 +29,11 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 <hr>
 <h3>Deployed Application</h3>
-
+<a href="https://seo-web.github.io/AdlUni-02-Project/" target="_blank">https://seo-web.github.io/AdlUni-02-Project/</a>
 
 <hr>
 <h3>Screenshot of Application</h3>
-
+<img src="https://seo-web.github.io/AdlUni-02-Project/assets/images/adl-02-project.png" width="80%" alt="screenshot for deployed application' />
 <hr>
 <h3>Assitance Required</h3>
 What does this mean and how do I overcome it?
